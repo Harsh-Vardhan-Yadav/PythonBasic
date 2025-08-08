@@ -25,4 +25,5 @@ print(x+1)
 
 # assign multiple variables
 a,b,c = 1,2,3
+
 print("A",a,"B",b,"C",c,sep="=")
